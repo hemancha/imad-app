@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-color: lightgrey;
+    background-color: pink;
     margin-top: 75px;
 }
 
@@ -24,7 +24,6 @@ body {
             margin: 0 auto;
             color: #4c4b4b;
             font-family: sans-serif;
-            padding-top: 55px;
             padding-left: 15px;
             padding-right: 15px;
     }
