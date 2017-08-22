@@ -19,7 +19,7 @@ body {
 .img-medium {
     height: 200px;
 }
-.container{
+.element{ 
             max-width: 800px;
             margin: 0 auto;
             color: #4c4b4b;
@@ -27,7 +27,5 @@ body {
             padding-left: 15px;
             padding-right: 15px;
     }
-#element{
-    color:blue;
-}
+
 
